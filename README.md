@@ -8,7 +8,7 @@ I'm also fond of [compilers](https://github.com/crystal-lang/crystal), [structur
 
 ## Work stuff
 
-I [work-in-place](http://www.nytimes.com/2016/06/19/jobs/remote-thats-no-way-to-describe-this-work.html) as a staff software engineer for a healthcare company, maintaining large Rails applications and working on tools and processes to accelerate product engineers.
+Most recently, I [worked-in-place](http://www.nytimes.com/2016/06/19/jobs/remote-thats-no-way-to-describe-this-work.html) as a staff software engineer for a lineage of primary health care companies (Iora Health -> One Medical / (sort of) Amazon).
 
 I like to work with a lot of different types of software, platforms, languages, and frameworks. Getting to work from the lower levels of the stack all the way up to where the user interacts particularly excites me. I like getting to change my hats every once in a while.
 
@@ -27,6 +27,7 @@ I'm actively using and enjoying these things at work, at home, or in open source
 - ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000&style=flat)
 - ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -44,7 +45,6 @@ I'm actively using and enjoying these things at work, at home, or in open source
 I like to read about these, or play around with them in my homelab, on side projects, etc.
 
 - ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-- ![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=000&style=flat)
 - ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
 - ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 
