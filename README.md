@@ -8,7 +8,7 @@ I'm also fond of [compilers](https://github.com/crystal-lang/crystal), [structur
 
 ## Work stuff
 
-Most recently, I [worked-in-place](http://www.nytimes.com/2016/06/19/jobs/remote-thats-no-way-to-describe-this-work.html) as a staff software engineer for a lineage of primary health care companies (Iora Health -> One Medical / (sort of) Amazon).
+I [work-in-place](http://www.nytimes.com/2016/06/19/jobs/remote-thats-no-way-to-describe-this-work.html) as a staff software engineer for a behavioral health care startup focused on providing care for patients with serious mental illness and their caregivers.
 
 I like to work with a lot of different types of software, platforms, languages, and frameworks. Getting to work from the lower levels of the stack all the way up to where the user interacts particularly excites me. I like getting to change my hats every once in a while.
 
