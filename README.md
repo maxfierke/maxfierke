@@ -4,7 +4,7 @@ I have many prized repos pinned below.
 
 I enjoy hacking on [Rust ports](https://github.com/maxfierke/reptyr/tree/mf-rust_port), [parsers](https://github.com/maxfierke/hcl.cr), [developer tools](https://github.com/maxfierke/mstrap) in Crystal, and fumbling my way through building [a point-and-click adventure game](https://www.maxfierke.com/projects/untitled-adventure-game).
 
-I'm also fond of [compilers](https://github.com/crystal-lang/crystal), [structured concurrency](https://github.com/machty/ember-concurrency), [hacking on Linux device support](https://github.com/maxfierke/linux-clockworkpi-a06), [poking fun at things](https://github.com/maxfierke/ember-procrastination), and over-engineering my home network for funsies.
+I'm also fond of [compilers](https://github.com/crystal-lang/crystal), [emulation](https://github.com/maxfierke/gogo-gb), [structured concurrency](https://github.com/machty/ember-concurrency), [hacking on Linux device support](https://github.com/maxfierke/linux-clockworkpi-a06), [poking fun at things](https://github.com/maxfierke/ember-procrastination), and over-engineering my home network for funsies.
 
 ## Work stuff
 
